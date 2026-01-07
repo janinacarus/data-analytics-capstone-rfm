@@ -6,12 +6,12 @@ _This repository presents **my individual contributions** to a larger **Data Ana
 **Project goal**
 
 Enhancing Olist's product portfolio with a **holistic premium dashboard** to **enable sellers to track their business performance** in various areas.
-![alt text](image-1.png)
+![Olist Smart Insights](images/image-1.png)
 
   
 
 **Workflow**
-![alt text](image.png)
+![Workflow](images/image.png)
 
 ## 🎯 My Contributions
 
@@ -29,7 +29,7 @@ Customer behavior was analyzed using an **RFM model**, followed by **K-Means clu
 ## 📈 RFM Dashboard
 
 [Interactive RFM Dashboard](https://public.tableau.com/views/RFMAnalysisCapstone/Dashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public
-![alt text](image-2.png) 
+![RFM Dashboard](images/image-2.png) 
 
 
 ## 🛠️ Tools & Technologies
