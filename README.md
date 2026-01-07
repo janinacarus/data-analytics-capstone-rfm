@@ -15,7 +15,7 @@ Enhancing Olist's product portfolio with a **holistic premium dashboard** to **e
 **Workflow**
 ![Workflow](images/image.png)
 
-<br><br>
+<br>
 
 ## 🎯 My Contributions
 
@@ -26,7 +26,7 @@ Enhancing Olist's product portfolio with a **holistic premium dashboard** to **e
 | [Visualization](https://public.tableau.com/views/RFMAnalysisCapstone/Dashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  | Interactive Tableau dashboard for RFM customer segments |
 | [Presentation](https://github.com/janinacarus/data-analytics-capstone-rfm/tree/main/presentation_full) | Presenting the final project |
 
-<br><br>
+<br>
 
 ## 📊 RFM Analysis 
 A key characteristic of this RFM analysis is that **customer segmentation was performed at the seller level**.  
@@ -44,14 +44,14 @@ It iterates over all sellers and performs RFM clustering programmatically for ea
 
 As a final result of the analysis, **each customer is assigned to a seller-specific RFM cluster**, enabling detailed, seller-level customer segmentation and performance evaluation.
 
-<br><br>
+<br>
 
 ## 📈 RFM Dashboard
 
 **[Interactive RFM Dashboard](https://public.tableau.com/views/RFMAnalysisCapstone/Dashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public**
 ![RFM Dashboard](images/image-2.png) 
 
-<br><br>
+<br>
 
 ## 🛠️ Tools & Technologies
 
@@ -62,7 +62,7 @@ As a final result of the analysis, **each customer is assigned to a seller-speci
 - GitHub
 - Google Slides
 
-<br><br>
+<br>
 
 ## 🗂️ Data Sources
 
