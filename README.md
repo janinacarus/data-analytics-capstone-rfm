@@ -10,7 +10,7 @@ _This repository presents **my individual contributions** to a larger **Data Ana
 Enhancing Olist's product portfolio with a **holistic premium dashboard** to **enable sellers to track their business performance** in various areas.
 ![Olist Smart Insights](images/image-1.png)
 
-<br><br>
+<br>
 
 **Workflow**
 ![Workflow](images/image.png)
